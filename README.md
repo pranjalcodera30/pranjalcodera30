@@ -3,11 +3,12 @@
 - 🌱 I’m currently learning **React JS** and diving into **Machine Learning**.
 - 🎯 Aspiring to contribute to open-source projects.
 - 🍴 Recently built **SvaadKaSafar**, using frontend celebrating diverse Indian cuisines.
+- I am currently working on Movie Recommendation System**: Using ML models to recommend movies.
 - 
 - ### 🚀 Current Projects
 - **[SvaadKaSafar](https://github.com/pranjalcodera30/Svad-Safar)**: Celebrating Indian cuisines with a full-stack application.
-- **Currently working on Movie Recommendation System**: Using ML models to recommend movies.
 
+- 
 - 🛤️ Explorer at heart – I love discovering hidden street foods!
 - 🎵 Music keeps me coding – always up for playlists.
 

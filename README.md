@@ -4,7 +4,7 @@
 - 🎯 Aspiring to contribute to open-source projects.
 - 🍴 Recently built **SvaadKaSafar**, using frontend celebrating diverse Indian cuisines.
 - I am currently working on Movie Recommendation System**: Using ML models to recommend movies.
-- 
+  
 - ### 🚀 Current Projects
 - **[SvaadKaSafar](https://github.com/pranjalcodera30/Svad-Safar)**: Celebrating Indian cuisines with a full-stack application.
 

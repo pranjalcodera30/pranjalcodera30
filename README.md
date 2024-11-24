@@ -6,9 +6,8 @@
 - I am currently working on Movie Recommendation System**: Using ML models to recommend movies.
   
 - ### 🚀 Current Projects
+  
 - **[SvaadKaSafar](https://github.com/pranjalcodera30/Svad-Safar)**: Celebrating Indian cuisines with a full-stack application.
-
-- 
 - 🛤️ Explorer at heart – I love discovering hidden street foods!
 - 🎵 Music keeps me coding – always up for playlists.
 

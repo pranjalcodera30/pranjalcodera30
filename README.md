@@ -5,7 +5,7 @@
 - 🍴 Recently built **SvaadKaSafar**, using frontend celebrating diverse Indian cuisines.
 - 
 - ### 🚀 Current Projects
-- **[SvaadKaSafar](https://github.com/your-username/SvaadKaSafar)**: Celebrating Indian cuisines with a full-stack application.
+- **[SvaadKaSafar](https://github.com/pranjalcodera30/Svad-Safar)**: Celebrating Indian cuisines with a full-stack application.
 - **Currently working on Movie Recommendation System**: Using ML models to recommend movies.
 
 - 🛤️ Explorer at heart – I love discovering hidden street foods!

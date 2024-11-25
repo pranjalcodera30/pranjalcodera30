@@ -18,8 +18,6 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/nexon30)
 
 
-![Profile views](https://profile-counter.glitch.me/Pranjal-Singh/count.svg)
-
 - 😄 Pronouns: She/Her
 
 - ⚡ Fun fact: I’m learning to code and cook at the same time—recipes and scripts!

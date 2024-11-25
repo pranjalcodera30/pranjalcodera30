@@ -16,7 +16,9 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/pranjalcodera30)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/pranjal_9697/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/nexon30)
-[![pranjalcodera30 profile views](https://u8views.com/api/v1/github/profiles/145254574/views/day-week-month-total-count.svg)](https://u8views.com/github/pranjalcodera30)
+
+
+<a href="https://u8views.com/github/pranjalcodera30"><img src="https://u8views.com/api/v1/github/profiles/145254574/views/day-week-month-total-count.svg"></a>
 
 - 😄 Pronouns: She/Her
 

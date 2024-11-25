@@ -18,7 +18,7 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/nexon30)
 
 
-<a href="https://u8views.com/github/pranjalcodera30"><img src="https://u8views.com/api/v1/github/profiles/145254574/views/day-week-month-total-count.svg"></a>
+![Profile views](https://profile-counter.glitch.me/Pranjal-Singh/count.svg)
 
 - 😄 Pronouns: She/Her
 
